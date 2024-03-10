@@ -301,7 +301,7 @@ visibility: hidden;
     list-style-type:circle;
     margin:20px 40px 20px 40px;
     }
-    .longlist{
+    .longlist, .superlonglist{
       display: block;
     }
    
